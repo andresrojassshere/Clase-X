@@ -8,5 +8,7 @@ let grupoletras3 = ["g", "h", "i"];
 let grupoletras4 = [grupoletras2,grupoletras1,grupoletras3];
 
 
-    expect (grupoletras4).toEqual([[ 'a', 'b', 'c' ], [ 'd', 'e', 'f' ], [ 'g', 'h', 'i' ] ]);
+    expect (grupoletras4).toEqual([[ 'a', 'b', 'c' ], [ 'd', 'e', 'f' ], [ 'g', 'h', 'i' ]]);
 });
+
+export{};

@@ -16,3 +16,4 @@ function ejercicio1(letters, numbers) {
 console.log("Solución Ejercicio 1: " + ejercicio1(letters, numbers));
 module.exports = ejercicio1;
 //note que los arreglos pueden ser de diferente tamaños y el contenido puede ser cualquier tipo de dato
+//intento
